@@ -1,0 +1,36 @@
+ <ol>
+                    <li>บริการรับใบแจ้งค่าใช้บริการทางอีเมล์สำหรับผู้ใช้บริการโทรศัพท์</li>
+                    <li>ผู้ใช้บริการที่สมัครรับใบแจ้งค่าใช้บริการทางอีเมล์ ถือว่าผู้ใช้บริการต้องการให้ ผู้ให้บริการจัดส่งใบแจ้งค่าใช้บริการทางอีเมล์ให้แก่ผู้ใช้บริการตาม Email address ที่ให้ไว้ตอนสมัครบริการ </li>
+                    <li>ผู้ใช้บริการยอมรับว่าเมื่อสมัครใช้บริการรับใบแจ้งค่าใช้บริการทางอีเมล์แล้วให้ถือว่าได้แสดงเจตนายกเลิกการบริการรับใบแจ้งค่าใช้บริการทางไปรษณีย์ที่ใช้บริการอยู่เดิม โดยผู้ให้บริการจะไม่จัดส่งใบแจ้งค่าใช้บริการ ให้กับผู้ใช้บริการตามที่อยู่ทางไปรษณีย์อีก
+                        และให้ถือว่าการส่งใบแจ้งค่าใช้บริการทางอีเมล์เป็นการส่งใบแจ้งค่าใช้บริการรายเดือนตามปกติ ทั้งนี้ ผู้ใช้บริการยังคงได้รับใบแจ้งค่าใช้บริการทางไปรษณีย์ตามปกติอีก 1 รอบบิลหลังสมัครบริการสำเร็จพร้อมกับการได้รับใบแจ้งค่าใช้บริการทางอีเมล์</li>
+                    <li>ผู้ใช้บริการสามารถนำใบแจ้งค่าใช้บริการทางอีเมล์นั้นไปชำระค่าใช้บริการผ่านช่องทางชำระค่าใช้บริการของผู้ให้บริการได้ตามปกติ ส่วนผู้ใช้บริการที่ชำระค่าใช้บริการผ่านธนาคาร (หักบัญชีเงินฝากธนาคาร/หักบัญชีบัตรเครดิต/เคาน์เตอร์ธนาคาร/เครื่อง
+                        ATM/Telephone Banking) หรือผ่านอินเทอร์เน็ต หรือผ่านโทรศัพท์เคลื่อนที่ ผู้ให้บริการจะจัดส่งใบเสร็จรับเงิน/ใบกำกับภาษีต้นฉบับให้ลูกค้าทางไปรษณีย์</li>
+                    <li>หากผู้ให้บริการได้ส่งใบแจ้งค่าใช้บริการทางอีเมล์ ออกจากระบบโปรแกรมคอมพิวเตอร์ของผู้ให้บริการแล้ว แต่ผู้ใช้บริการมิได้รับ หรือไม่สามารถรับใบแจ้งค่าใช้บริการทางอีเมล์ได้ เนื่องด้วยเหตุใดๆ ก็ตาม เช่น กล่องรับ (Mail Box) เต็มหรือมีข้อบกพร่องหรือผิดพลาดประการอื่นเกี่ยวกับประสิทธิภาพของเครือข่ายผู้ให้บริการอินเทอร์เน็ต
+                        หรือเกิดจากความบกพร่องของเครื่องคอมพิวเตอร์ของผู้ใช้บริการ หรือเหตุใดๆ ซึ่งอยู่เหนือการควบคุมของผู้ให้บริการแล้วให้ถือว่าเป็นการส่งโดยชอบจะไม่ถือเป็นเหตุกล่าวอ้างว่าผู้ให้บริการมิได้จัดส่งใบแจ้งค่าใช้บริการทางอีเมล์หรือจะนำมาเป็นเหตุแห่งการปฏิเสธการชำระค่าใช้บริการ
+                        หรือจะนำมาเป็นเหตุเรียกร้องให้ผู้ให้บริการต้องรับผิดใดๆ ทั้งสิ้นมิได้</li>
+                    <li>หากผู้ใช้บริการต้องการจะยกเลิกการรับใบแจ้งค่าใช้บริการทางอีเมล์ต้องแจ้งให้ผู้ให้บริการทราบล่วงหน้าอย่างน้อย 1 รอบบิล</li>
+                    <li>ผู้ใช้บริการรับรองว่า Email address ที่ให้ไว้เป็นของผู้ใช้บริการ กรณีที่ต้องการจะเปลี่ยนแปลง Email address ผู้ใช้บริการจะต้องแจ้งให้ผู้ให้บริการทราบล่วงหน้าไม่น้อยกว่า 3 วันทำการ ก่อนถึงวันตัดรอบบิลของการใช้บริการ ทั้งนี้หากผู้ให้บริการไม่สามารถจัดส่งใบแจ้งค่าใช้บริการทางอีเมล์ให้กับผู้ใช้บริการได้ไม่ว่าด้วยเหตุใดๆ
+                        ก็ตาม ซึ่งเหตุดังกล่าวไม่ได้เกิดจากความรับผิดของผู้ให้บริการผู้ให้บริการขอสงวนสิทธิ์ในการจัดส่งใบแจ้งค่าใช้บริการทางไปรษณีย์ที่ใช้บริการอยู่เดิม โดยให้ถือว่าเป็นการส่งโดยชอบ และจะไม่ถือเป็นเหตุกล่าวอ้างว่าผู้ให้บริการมิได้จัดส่งใบแจ้งค่าใช้บริการทางอีเมล์ที่ได้ลงทะเบียนสมัครขอใช้บริการไว้หรือจะนำมาเป็นเหตุแห่งการปฏิเสธการชำระค่าใช้บริการหรือจะนำมาเป็นเหตุเรียกร้องให้ผู้ให้บริการต้องรับผิดใดๆ
+                        ทั้งสิ้นมิได้
+                    </li>
+                    <li>ผู้ใช้บริการตกลงและยอมรับว่าผู้ให้บริการจะมีการจัดส่งอีเมล์ หรือ SMS เพื่อแจ้งข้อมูลอันอาจเป็นประโยชน์และน่าสนใจเกี่ยวกับสินค้าหรือบริการ โปรโมชั่นและข้อเสนอต่างๆ ของผู้ให้บริการ</li>
+                    <li>รายการส่งเสริมการขายนี้อยู่ภายใต้เงื่อนไขที่ผู้ให้บริการกำหนด หากผู้ใช้บริการต้องการศึกษาข้อมูลเพิ่มเติมให้ติดต่อได้ที่ NT Contact Center โทร 1888 หรือศูนย์บริการลูกค้า NT ทุกแห่งทั่วประเทศ ก่อนเลือกใช้บริการ ทั้งนี้ผู้ให้บริการขอสงวนสิทธิ์ในการยกเลิกและ/เปลี่ยนแปลงรายการได้ตามที่เห็นสมควร</li>
+                </ol>
+
+
+ <ol>
+                    <li>e-Bill is an electronic bill service through email account that offers to user.</li>
+                    <li>Those signed up for e-Bill service with email access mean to allow service provider to send them e-Bill through the email account given upon registration.</li>
+                    <li>User accepts that, once enrolled to receiving e-Bill by email, it expresses the notice of intention to cancel the existing service under postal billing statement. Subsequently, service provider shall make no more postal delivery of billing statement, but sending e-Bill mail for monthly billing service on regular basis. However,
+                        user would still be reached into another statement by post for the next one billing cycle in parallel with e-Bill by email after successful sign up.</li>
+                    <li>User could take e-Bill statement for payment through any channel regularly offered by service provider. Among users who may set the paying of service through either banking transaction, (debit to the bank account/debit to credit card/ATM/ Telephone Banking), or Internet,
+                        or mobile phone, service provider would send them original receipt/ tax invoice by postal service.</li>
+                    <li>In the event that the service provider sent the billing statement out of the computer program system to user, however, in case that user does not receive, or unable to access such billing issue through email service for any reason such as full mailbox, or error, or any inefficiency, or other failures of network Internet provider,
+                        or any probable causes that is beyond control of service provider in email communication, user shall not demand for any reasonable cause for refusal of service payment, or not render on claim for any responsibility for any nature whatsoever.</li>
+                    <li>If user would like to cancel e-Bill service, it shall be notified service provider at least 1 billing cycle in advance.</li>
+                    <li>User hereby certifies and warrants that the email address given is user's true account. In case user wishes to change new email address, user shall notify service provider at least 3 official days prior to the last day of billing cycle. However, if service provider could not send such billing statement via email address caused by any reason without entire responsibility of service provider,
+                        thus, service provider reserve the right to send by regular post at billing address given in previous service. It shall be deemed acceptable delivery, and shall not be taken into demand for any reasonable cause of claim for not receiving e-Bill upon service registration, or render on claim for any responsibility for any nature whatsoever.
+                    </li>
+                    <li>User hereby agrees and accepts that service provider may send emails or SMS the interesting or beneficial information in relation to products or services, promotions and privilege offers to user.</li>
+                    <li>This sale promotion is governed under terms and conditions defined by service provider. If inquire to study for more information prior to service selection, contact 1888 NT Contact Center or all NT customer services throughout the country. However, service provider reserves the right to terminate and/or change any dealings as deemed appropriate.</li>
+                </ol>
